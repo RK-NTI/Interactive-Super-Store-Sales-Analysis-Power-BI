@@ -1,4 +1,4 @@
-# Interactive Super-Store-Sales Analysis(Power BI)
+# Interactive Super Store Sales Analysis Dashboard (Power BI-Project)
 📊 Recently Learned: Interactive Super Store Sales Dashboard
 
 I’m excited to share that I recently learned how to design and analyze an interactive Super Store Sales Dashboard using data visualization and business intelligence techniques.
