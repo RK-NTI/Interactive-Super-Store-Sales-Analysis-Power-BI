@@ -23,7 +23,8 @@ Through this dashboard, I learned how to analyze sales performance using importa
 
 🔹 Sales by Ship Mode
 
-🔑 Key Insights
+# 🔑 Key Insights
+
 Total Sales: Generated approximately $2M in total sales.
 
 Total Profit: Achieved around $286.40K in profit.
