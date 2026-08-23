@@ -22,4 +22,23 @@ Through this dashboard, I learned how to analyze sales performance using importa
 🔹 Monthly & Yearly Sales Trends
 
 🔹 Sales by Ship Mode
+
+🔑 Key Insights
+Total Sales: Generated approximately $2M in total sales.
+
+Total Profit: Achieved around $286.40K in profit.
+
+Total Orders: Recorded 509 total orders.
+
+Top Region: West contributed the highest sales share.
+
+Top Category: Technology was the best-performing category.
+
+Top Sub-Categories: Phones and Chairs were among the top sellers.
+
+Top Segment: Consumer generated the highest sales.
+
+Sales Trend: Sales showed an overall upward trend year-over-year.
+
+Shipping: Standard Class was the most-used shipping mode.
 <img width="1427" height="755" alt="image" src="https://github.com/user-attachments/assets/c9e48072-969c-4c6a-adc2-02287c9fd772" />
